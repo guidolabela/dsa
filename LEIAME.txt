@@ -17,8 +17,6 @@ pip install -r requirements.txt
 
 streamlit run dsa_assistente.py
 
-API Key Groq: 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
-
 # Exemplos de uso do assistente:
 
 # Como crio um hello world em Python?
